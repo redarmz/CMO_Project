@@ -15,8 +15,7 @@
 [![SonarCloud Coverage](https://sonarcloud.io/api/project_badges/measure?project=fr.parisnanterre.pascalpoizat%3Atemplate-java-project&metric=coverage)](https://sonarcloud.io/summary/new_code?id=fr.parisnanterre.pascalpoizat%3Atemplate-java-project)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=fr.parisnanterre.pascalpoizat%3Atemplate-java-project&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=fr.parisnanterre.pascalpoizat%3Atemplate-java-project)
 <br/><br/>
-[![Build Status](https://img.shields.io/travis/com/pascalpoizat/template-java-project/master.svg?style=flat-square)](https://travis-ci.com/github/pascalpoizat/template-java-project)
-
+![Badge personnalisé](https://img.shields.io/badge/Faut%20remplacer%20les%20liens%20du%20prof%20avec%20les%20notre%20des%20que%20reda%20connecte%20le%20répertoire%20en%20tant%20qu'admin%20avec%20les%20différents%20outils)
 
 ## Besoin :
 
