@@ -23,9 +23,12 @@
 
 
 ## Besoin :
-    Nous allons manger à la pause mais nous ne savons pas où, notre temps et budget sont limitées …
+
+Nous allons manger à la pause mais nous ne savons pas où, notre temps et budget sont limitées …
+
 ## Solution :
-     Nous souhaitons créer un site web qui va nous donner la liste des restaurants, fast food,… disponibles aux alentours selon plusieurs critères de sélection (prix, temps de service, régime alimentaire ...) en utilisant la géolocalisation. Plus tard, nous souhaiterions intégrer une IA qui nous pose 3 questions lors de l'entrée sur l'appli telles que 
+
+Nous souhaitons créer un site web qui va nous donner la liste des restaurants, fast food,… disponibles aux alentours selon plusieurs critères de sélection (prix, temps de service, régime alimentaire ...) en utilisant la géolocalisation. Plus tard, nous souhaiterions intégrer une IA qui nous pose 3 questions lors de l'entrée sur l'appli telles que 
 
  - "Combien de temps as-tu ?", 
  - "Souhaites tu manger chaud ou froid ?" 
