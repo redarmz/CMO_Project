@@ -1,6 +1,6 @@
 # CMO_Project
 
-[![Build Status](https://img.shields.io/badge/reda_faut_que_tu_fasse_travis_sorry-red)]
+[![Build Status]]
 <br/>
 [![Code Coverage with Coveralls](https://img.shields.io/badge/reda_faut_que_tu_fasse_travis_sorry-red)]
 <br/>
